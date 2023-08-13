@@ -1,0 +1,1 @@
+Key.caps_lockKey.caps_lock
